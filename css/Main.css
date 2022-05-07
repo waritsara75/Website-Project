@@ -1,0 +1,30 @@
+body{
+  background-color: rgb(246, 187, 241);
+}
+
+nav{
+  display: grid;
+  padding: 10px;
+  flex: 1 100%;
+  background-color: #8ecffe;
+  margin: 5px 0px;
+  font-size: 1.5em;
+  grid-template-columns: repeat(3,1fr);
+  text-align: center;
+}
+
+.menu{
+  color: whitesmoke;
+  
+}
+
+header{
+  text-align: center;
+  color: rgb(25, 128, 192);
+}
+
+img{
+  width: 450px;
+  height: 600px;
+  
+}
